@@ -1,7 +1,7 @@
 
 ### Hey Coders! 🙏 I am Gaurang Keluskar, 20 years old undergraduate, invested all money in "25 din mai paisa double" scheme.
 
-- 🔭 I’m currently working on MERN Stack.
+- 🔭 I’m currently working on "MERN" Stack.
 - 🌱 I’m currently learning Flutter Web.
 - 📫 How to reach me: gaurangkeluskar22@gmail.com
 
