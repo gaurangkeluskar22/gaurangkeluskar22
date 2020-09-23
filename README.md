@@ -14,7 +14,7 @@
 
 
 
-
+<!--
 <p align="center">
   <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,17202A,3498DB&title_color=fff&text_color=fff&repo=Basic-Music-Player-App" />
@@ -23,3 +23,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,3498DB,17202A&title_color=fff&text_color=fff&repo=leetcode---competitive-programming" />
   </a>
  </p>
+-->
