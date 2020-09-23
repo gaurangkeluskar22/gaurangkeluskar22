@@ -7,15 +7,12 @@
 - 📫 How to reach me: gaurangkeluskar22@gmail.com
 
 <p align="center">
+  
 ![Gaurang github stats](https://github-readme-stats.vercel.app/api?username=gaurangkeluskar22&show_icons=true&theme=dracula)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkeluskar22&&layout=compact&hide=Jupyter Notebook&theme=tokyonight">
 </p>
 
-<p align="center">
 
-![Ram github stats](https://github-readme-stats.vercel.app/api?username=rampa2510&show_icons=true&theme=dracula)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rampa2510&hide=Jupyter Notebook&theme=tokyonight">
-</p>
 
 
 <p align="center">
