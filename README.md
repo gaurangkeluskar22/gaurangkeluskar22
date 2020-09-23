@@ -9,7 +9,7 @@
 <p align="center">
   
 ![Gaurang github stats](https://github-readme-stats.vercel.app/api?username=gaurangkeluskar22&show_icons=true&theme=tokyonight)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkeluskar22&&layout=compact&hide=Jupyter Notebook&theme=tokyonight">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkeluskar22&&layout=compact&hide=Jupyter Notebook&theme=tokyonight" height="195">
 </p>
 
 
@@ -17,9 +17,9 @@
 
 <p align="center">
   <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,3498DB,17202A&title_color=fff&text_color=fff&repo=Basic-Music-Player-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,17202A,3498DB&title_color=fff&text_color=fff&repo=Basic-Music-Player-App" />
   </a>
-  <a href="https://github.com/gaurangkeluskar22/Basic-Music-Player-App">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,3498DB,17202A&title_color=fff&text_color=fff&repo=Basic-Music-Player-App" />
+  <a href="https://github.com/gaurangkeluskar22/vitapp1.0">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gaurangkeluskar22&bg_color=30,3498DB,17202A&title_color=fff&text_color=fff&repo=vitapp1.0" />
   </a>
  </p>
