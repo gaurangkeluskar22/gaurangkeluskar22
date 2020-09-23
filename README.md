@@ -6,4 +6,4 @@
 - 📫 How to reach me: gaurangkeluskar22@gmail.com
 
 
-[![Gaurang's github stats](https://github-readme-stats.vercel.app/api?username=gaurangkeluskar22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkeluskar22&hide=Jupyter Notebook&theme=tokyonight">
+[![Gaurang's github stats](https://github-readme-stats.vercel.app/api?username=gaurangkeluskar22&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangkeluskar22&layout=compact&hide=Jupyter Notebook&theme=tokyonight">
